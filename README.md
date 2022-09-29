@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kush Gandhi</h1>
 <h3 align="center">Aspiring to be a Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kush12747" alt="kush12747" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures and Unix & Network programming**
 
 - 📫 How to reach me **kushgandhi2099@gmail.com**
@@ -17,4 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kush12747&show_icons=true&locale=en&layout=compact" alt="kush12747" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kush12747&show_icons=true&locale=en" alt="kush12747" /></p>
-
