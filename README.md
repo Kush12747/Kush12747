@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kush Gandhi</h1>
 <h3 align="center">Aspiring to be a Software Engineer</h3>
 
-- 🌱 I’m currently learning **Data Structures and Unix & Network programming**
+- 🌱 I’m currently learning **Databases and Assembly Language**
 
 - 📫 How to reach me **kushgandhi2099@gmail.com**
 
