@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Databases and Assembly Language**
 
-- 📫 How to reach me **kushgandhi2099@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
